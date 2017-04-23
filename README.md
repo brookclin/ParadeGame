@@ -5,6 +5,6 @@ A Java game project for Specialized Course Design
 
 2014 Fall @ Tianjin University
 
-![Game image](http://ww1.sinaimg.cn/large/401aa683ly1fewlguagmuj21r41e4e83.jpg)
+![Game image](https://cloud.githubusercontent.com/assets/8612354/25311365/de1ffb9c-27b3-11e7-90e8-68202702fcbb.png)
 
 [Game official link](http://www.zmangames.com/store/p5/Parade.html)
